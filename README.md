@@ -1,14 +1,22 @@
-# PvResan
+# سورس اصلی ربات پی وی رسان
+# @PvResanBot
+# دست هیچ بنی بشری نیست و نخواهد بود
 
-سلام
+# این سورس ای هم که داخل این گیت هاب هست
+# سورس ورژن یک پی وی رسان هست
+# و پی وی رسان هم اکنون از سورس ورژن های بالاتر استفاده میکند
 
-این سورس توسط ادمین اوپن شده و کاملترین سورس موجوده
+# تیم برنامه نویسی FTC
+# با آدرس سایت
+# https://feelthecode.com
 
-برای آموزش ران کردن به 
-<a href="http://www.telegram.me/nawr_i_man_bot">ادمین</a>
-پیام بدید
+# اولین سازنده ربات پیام رسان فارسی در تلگرام
+# و برنامه نویسی ربات پی وی رسان میباشد.
 
-یه تشکر  ویژه از دوستای خوبم    </br>
-<a href="http://www.telegram.me/awmir_ho3in">awmir_ho3in</a></br>
-<a href="http://www.telegram.me/FasTReaCtoR">FasTReaCtoR</a>
+# لطفا از هیچکس هیچ سورس و یا آموزش تقلبی را خریداری نکنید
 
+site: https://feelthecode.com
+-
+Telegram Bot: https://telegram.me/PvResanBot
+-
+Telegram Channel: https://telegram.me/PvResan
